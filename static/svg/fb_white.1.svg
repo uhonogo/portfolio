@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg width="100%" height="100%" viewBox="0 0 36 36" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xml:space="preserve" xmlns:serif="http://www.serif.com/" style="fill-rule:evenodd;clip-rule:evenodd;stroke-linejoin:round;stroke-miterlimit:1.41421;">
+    <g transform="matrix(1,0,0,1,-1253.42,-506.16)">
+        <g transform="matrix(1.17219,0,0,8.53376,1013.28,-48.9084)">
+            <g id="facebook" transform="matrix(0.267389,0,0,0.0367283,219.861,67.1042)">
+                <g transform="matrix(1,0,0,1,-56.098,-56.098)">
+                    <g>
+                        <path d="M56.098,0C87.059,0 112.196,25.137 112.196,56.098C112.196,87.059 87.059,112.196 56.098,112.196C25.137,112.196 0,87.059 0,56.098C0,25.137 25.137,0 56.098,0ZM71.56,34.32L71.56,21.81L60.326,21.763C47.858,21.763 45.025,31.102 45.025,37.066L45.025,45.406L37.812,45.406L37.812,58.294L45.025,58.294L45.025,94.966L60.191,94.966L60.191,58.294L70.201,58.294L71.526,45.418L60.192,45.418L60.192,37.833C60.192,34.988 62.072,34.32 63.409,34.32L71.56,34.32Z" style="fill:white;"/>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>
